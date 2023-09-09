@@ -47,4 +47,6 @@
 }
 
 ## Notes 
-- for using class name tag use in classlist we have to use array or for loop.
+- for using class name tag use in classlist we have to use array or for loop. => document.getElementsClassName();
+- If you need to classlist to work then using document.getElementById();
+- 
