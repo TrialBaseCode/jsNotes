@@ -52,5 +52,7 @@
 
 # Eventlistern problem to solve
 - when error come "Cannot read property 'addEventListener' of null"
+- write whole eventlisterner code inside the addEventlistner
   
         document.addEventListener('DOMContentLoaded', function () { });
+        
